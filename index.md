@@ -10,7 +10,8 @@ title: Games For Effy
 - ~~Little Nightmares (+DLC)~~ → Little Nightmares 2
 
 # Platform Tilt (ma soddisfacente):
-> Con un si andrebbe meglio
+> Con un controller si andrebbe meglio
+
 - Celeste Farewell
 - Cuphead
 - Hollow Knight
