@@ -1,3 +1,8 @@
+---
+layout: default
+title: Games For Effy
+---
+
 # Chill games:
 - Transistor
 - Ori and the Blind Forest → Ori and the Will of the Wisps
