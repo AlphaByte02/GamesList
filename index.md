@@ -4,6 +4,7 @@ title: Games For Effy
 ---
 
 # Chill games:
+
 - Transistor
 - Ori and the Blind Forest → Ori and the Will of the Wisps
 - Limbo → Inside
@@ -17,6 +18,7 @@ title: Games For Effy
 - Hollow Knight
 
 # Action - Adventure:
+
 - Kena Bridge of Spirits
 - God of War
 - Horizon Zero Dawn
@@ -24,6 +26,7 @@ title: Games For Effy
 - Control
 
 # Horrors/Horrorish:
+
 - Alien Isolation
 - Visage
 - Resident Evil
@@ -32,11 +35,14 @@ title: Games For Effy
 - Layers of Fear
 
 # Carini da giocare
+
 - It Takes Two (servono 2 persone, neanche a dirlo lol)
 - The Stanley Parable
 - Superliminal
+- Unravel → Unravel 2
 
 # FPS:
+
 - Destiny 2
 - Doom Eternals
 - Wolfenstein (saga)
