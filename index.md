@@ -6,31 +6,30 @@ title: Games For Effy
 # Chill games:
 
 - Transistor
-- Ori and the Blind Forest → Ori and the Will of the Wisps
-- Limbo → Inside
-- ~~Little Nightmares (+DLC) → Little Nightmares 2~~
+- Ori and the Blind Forest → Ori and the Will of the Wisps (🎮)
+- Limbo → Inside (🎮)
+- ~~Little Nightmares (+DLC) → Little Nightmares 2~~ (🎮)
 
-# Platform Tilt (ma soddisfacente):
-> Con un controller si andrebbe meglio
+# Platform Tilt (ma soddisfacenti):
 
-- Celeste Farewell
-- Cuphead
-- Hollow Knight
+- Celeste Farewell (🎮)
+- Cuphead (🎮)
+- Hollow Knight (🎮)
 
 # Action - Adventure:
 
-- Kena Bridge of Spirits
-- God of War
+- Kena Bridge of Spirits (🎮)
+- God of War (🎮)
 - Horizon Zero Dawn
-- Bayonetta
-- Control
+- Bayonetta (🎮)
+- Control (🎮)
 
 # Carini da giocare
 
 - It Takes Two (servono 2 persone, neanche a dirlo lol)
 - The Stanley Parable
 - Superliminal
-- Unravel → Unravel 2
+- Unravel → Unravel 2 (🎮)
 
 # Horrors/Horrorish:
 
