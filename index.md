@@ -5,10 +5,11 @@ title: Games For Effy
 
 # Chill games:
 
-- Transistor
+- Stray (🎮)
 - Ori and the Blind Forest → Ori and the Will of the Wisps (🎮)
 - Limbo → Inside (🎮)
 - ~~Little Nightmares (+DLC) → Little Nightmares 2~~ (🎮)
+- Transistor
 
 # Platform Tilt (ma soddisfacenti):
 
