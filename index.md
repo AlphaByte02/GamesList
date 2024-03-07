@@ -22,10 +22,13 @@ title: Games For Effy
 - Transistor (🎮⌨️)
 - Life is Strange (⌨️🎮)
 
-# Platform Tilt (ma soddisfacenti):
+# Platform Tilt:
 
 - Celeste Farewell (🎮)
 - Cuphead (🎮)
+
+# Metroidvania
+
 - Hollow Knight (🎮)
 
 # Action - Adventure:
@@ -48,6 +51,7 @@ title: Games For Effy
 # RPG (a turni)
 
 - Cassette Beasts (⌨️/🎮)
+- Sea of Stars
 
 # Horrors/Horrorish:
 
@@ -57,6 +61,12 @@ title: Games For Effy
 - Outlast (+DLC) → Outlast 2 → Outlast Trials (⌨️/🎮)
 - Close to the Sun (⌨️/🎮)
 - Layers of Fear (⌨️/🎮)
+
+# Souls/ Souls-Like
+
+- Elden Ring
+- Sekiro
+- Lies of P
 
 # FPS:
 
