@@ -16,7 +16,6 @@ title: Games For Effy
 # Chill games:
 
 - Stray (🎮⌨️)
-- Ori and the Blind Forest → Ori and the Will of the Wisps (🎮)
 - Limbo → Inside (🎮⌨️)
 - ~~Little Nightmares (+DLC) → Little Nightmares 2~~ (🎮⌨️)
 - Transistor (🎮⌨️)
@@ -29,10 +28,12 @@ title: Games For Effy
 
 # Metroidvania
 
+- Ori and the Blind Forest → Ori and the Will of the Wisps (🎮)
 - Hollow Knight (🎮)
 
 # Action - Adventure:
 
+- The last of us (🎮⌨️)
 - Kena Bridge of Spirits (🎮⌨️)
 - God of War (🎮⌨️)
 - Horizon Zero Dawn (🎮⌨️)
@@ -52,6 +53,12 @@ title: Games For Effy
 
 - Cassette Beasts (⌨️/🎮)
 - Sea of Stars
+- Omori
+
+# RPG
+
+- Persona (saga) (⌨️/🎮)
+- Undertale (⌨️/🎮)
 
 # Horrors/Horrorish:
 
@@ -61,8 +68,9 @@ title: Games For Effy
 - Outlast (+DLC) → Outlast 2 → Outlast Trials (⌨️/🎮)
 - Close to the Sun (⌨️/🎮)
 - Layers of Fear (⌨️/🎮)
+- Poppy Playtime (⌨️/🎮)
 
-# Souls/ Souls-Like
+# Souls/Souls-Like
 
 - Elden Ring
 - Sekiro
