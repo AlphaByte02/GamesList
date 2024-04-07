@@ -20,6 +20,7 @@ title: Games For Effy
 - ~~Little Nightmares (+DLC) → Little Nightmares 2~~ (🎮⌨️)
 - Transistor (🎮⌨️)
 - Life is Strange (⌨️🎮)
+- Gris (🎮⌨️)
 
 # Platform Tilt:
 
