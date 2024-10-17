@@ -31,15 +31,17 @@ title: Games For Effy
 
 - Ori and the Blind Forest → Ori and the Will of the Wisps (🎮)
 - Hollow Knight (🎮)
+- Blasphemous → Blasphemous 2 (🎮⌨️) 
 
 # Action - Adventure:
 
 - The last of us (🎮⌨️)
 - Kena Bridge of Spirits (🎮⌨️)
-- God of War (🎮⌨️)
-- Horizon Zero Dawn (🎮⌨️)
-- Bayonetta (🎮)
+- God of War (saga) (🎮⌨️)
+- Horizon Zero Dawn (saga) (🎮⌨️)
+- Bayonetta (saga) (🎮)
 - Control (🎮⌨️)
+- Dying Light (saga) (⌨️🎮)
 
 # Carini da giocare
 
@@ -49,17 +51,22 @@ title: Games For Effy
 - Unravel → Unravel 2 (🎮⌨️)
 - Portal → Portal 2 (⌨️/🎮)
 - ~~The Mageseeker - A League of Legends Story~~ (🎮/⌨️)
+- Hi-Fi Rush (🎮⌨️)
+- Cocoon (🎮⌨️)
+- Sheepy: A Short Adventure (🎮⌨️)
 
 # RPG (a turni)
 
 - Cassette Beasts (⌨️/🎮)
-- Sea of Stars
-- Omori
+- Sea of Stars (🎮⌨️)
+- Omori (⌨️/🎮)
+- Octopath Traveler → Octopath Traveler 2 (🎮⌨️)
 
 # RPG
 
 - Persona (saga) (⌨️/🎮)
 - Undertale (⌨️/🎮)
+- Cyberpunk 2077 (⌨️🎮)
 
 # Horrors/Horrorish:
 
@@ -73,9 +80,15 @@ title: Games For Effy
 
 # Souls/Souls-Like
 
-- Elden Ring
-- Sekiro
-- Lies of P
+- Elden Ring (🎮⌨️)
+- Sekiro (🎮⌨️)
+- Lies of P (🎮⌨️)
+- Wukong (🎮⌨️)
+
+# Multiplayer
+
+- Pico Park → Pico Park 2
+- Human Fall Flat
 
 # FPS:
 
@@ -84,3 +97,4 @@ title: Games For Effy
 - Wolfenstein (saga) (⌨️)
 - Metro (saga) (⌨️)
 - Bioshock (saga) (⌨️)
+- Atomic Heart (⌨️)
