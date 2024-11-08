@@ -35,19 +35,20 @@ title: Games For Effy
 
 # Action - Adventure:
 
-- The last of us (🎮⌨️)
+- The Last of Us → The Last of Us 2 (🎮⌨️)
 - Kena Bridge of Spirits (🎮⌨️)
 - God of War (saga) (🎮⌨️)
-- Horizon Zero Dawn (saga) (🎮⌨️)
+- Horizon Zero Dawn → Horizon Forbidden West (🎮⌨️)
 - Bayonetta (saga) (🎮)
 - Control (🎮⌨️)
-- Dying Light (saga) (⌨️🎮)
+- Dying Light (+DLC) → Dying Light 2 (⌨️🎮)
 
 # Carini da giocare
 
 - It Takes Two (servono 2 persone, neanche a dirlo lol) (🎮⌨️)
 - The Stanley Parable (⌨️/🎮)
 - Superliminal (⌨️/🎮)
+- Viewfinder (⌨️/🎮)
 - Unravel → Unravel 2 (🎮⌨️)
 - Portal → Portal 2 (⌨️/🎮)
 - ~~The Mageseeker - A League of Legends Story~~ (🎮/⌨️)
@@ -57,7 +58,7 @@ title: Games For Effy
 
 # RPG (a turni)
 
-- Cassette Beasts (⌨️/🎮)
+- Cassette Beasts (+DLC) (⌨️/🎮)
 - Sea of Stars (🎮⌨️)
 - Omori (⌨️/🎮)
 - Octopath Traveler → Octopath Traveler 2 (🎮⌨️)
@@ -78,7 +79,7 @@ title: Games For Effy
 - Layers of Fear (⌨️/🎮)
 - Poppy Playtime (⌨️/🎮)
 
-# Souls/Souls-Like
+# Souls/Souls-Like/Souls-Born
 
 - Elden Ring (🎮⌨️)
 - Sekiro (🎮⌨️)
