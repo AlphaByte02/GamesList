@@ -56,15 +56,12 @@ title: Games For Effy
 - Cocoon (🎮⌨️)
 - Sheepy: A Short Adventure (🎮⌨️)
 
-# RPG (a turni)
+# RPG
 
 - Cassette Beasts (+DLC) (⌨️/🎮)
 - Sea of Stars (🎮⌨️)
 - Omori (⌨️/🎮)
 - Octopath Traveler → Octopath Traveler 2 (🎮⌨️)
-
-# RPG
-
 - Persona (saga) (⌨️/🎮)
 - Undertale (⌨️/🎮)
 - Cyberpunk 2077 (⌨️🎮)
@@ -78,6 +75,7 @@ title: Games For Effy
 - Close to the Sun (⌨️/🎮)
 - Layers of Fear (⌨️/🎮)
 - Poppy Playtime (⌨️/🎮)
+- The Mortuary Assistant (⌨️)
 
 # Souls/Souls-Like/Souls-Born
 
@@ -89,7 +87,8 @@ title: Games For Effy
 # Multiplayer
 
 - Pico Park → Pico Park 2
-- Human Fall Flat
+- Human Fall Flat (🎮⌨️)
+- Gang Beast
 
 # FPS:
 
